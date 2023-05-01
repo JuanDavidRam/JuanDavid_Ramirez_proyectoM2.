@@ -20,10 +20,10 @@ y = float(input("Ingrese Y: "))
 if x == 0 or y == 0:
     print("Error: Las coordenadas no pueden ser 0.")
 elif x > 0 and y > 0:
-    print("El punto se encuentra en el cuadrante I.")
+    print("El punto se encuentra en el cuadrante 1.")
 elif x < 0 and y > 0:
-    print("El punto se encuentra en el cuadrante II.")
+    print("El punto se encuentra en el cuadrante 2.")
 elif x < 0 and y < 0:
-    print("El punto se encuentra en el cuadrante III.")
+    print("El punto se encuentra en el cuadrante 3.")
 else:
-    print("El punto se encuentra en el cuadrante IV.")
+    print("El punto se encuentra en el cuadrante 4.")

@@ -1,3 +1,4 @@
+# crear password
 password = input("Ingrese una contraseña que inicie con un número: ")
 if not password[0].isdigit():
     print("La contraseña debe iniciar con un número.")
