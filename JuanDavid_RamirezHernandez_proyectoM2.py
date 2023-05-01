@@ -30,5 +30,6 @@ elif x < 0 and y > 0:
     print("El punto se encuentra en el cuadrante 2.")
 elif x < 0 and y < 0:
     print("El punto se encuentra en el cuadrante 3.")
+# Se ejecutará si ninguna de las condiciones anteriores en el if y los elif se cumple.
 else:
     print("El punto se encuentra en el cuadrante 4.")
