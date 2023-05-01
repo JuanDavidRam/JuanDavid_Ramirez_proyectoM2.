@@ -14,7 +14,7 @@ else:
 
 # Encuentra el cuadrante
 
-    x = float(input("Ingrese X: "))
+otorrinolaringologox = float(input("Ingrese X: "))
 y = float(input("Ingrese Y: "))
 
 if x == 0 or y == 0:
