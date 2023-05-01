@@ -1,3 +1,5 @@
+# Longitud de una frase
+
 palabra = input("Ingresa una palabra: ")
 
 longitud = len(palabra)
@@ -10,7 +12,7 @@ else:
     print("Sobran letras. Tiene", longitud, "letras.")
 
 
-
+# Encuentra el cuadrante
 
     x = float(input("Ingrese X: "))
 y = float(input("Ingrese Y: "))
